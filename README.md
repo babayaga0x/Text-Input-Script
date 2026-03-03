@@ -127,7 +127,7 @@ Potential future improvements:
 
 ## 📄 License
 
-Open source — free to use, fork, and adapt for personal or educational projects.
+MIT License
 
 
 <p align="center">

@@ -1,5 +1,9 @@
 # ⌨️ Text Input Script
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/69139c1a-f471-40eb-bf86-2ec93b3792e3" />
+</p>
+
 A Python automation script for typing speed tests and other text input scenarios.  
 Uses `pyautogui` to simulate keyboard input automatically after a short delay.
 
@@ -128,8 +132,3 @@ Potential future improvements:
 ## 📄 License
 
 MIT License
-
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/69139c1a-f471-40eb-bf86-2ec93b3792e3" />
-</p>
